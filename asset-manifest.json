@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-three-fiber-test/static/css/main.d863a37d.chunk.css",
+    "main.js": "/react-three-fiber-test/static/js/main.ddcb9814.chunk.js",
+    "main.js.map": "/react-three-fiber-test/static/js/main.ddcb9814.chunk.js.map",
+    "runtime-main.js": "/react-three-fiber-test/static/js/runtime-main.e24fdc75.js",
+    "runtime-main.js.map": "/react-three-fiber-test/static/js/runtime-main.e24fdc75.js.map",
+    "static/js/2.cfd81cd2.chunk.js": "/react-three-fiber-test/static/js/2.cfd81cd2.chunk.js",
+    "static/js/2.cfd81cd2.chunk.js.map": "/react-three-fiber-test/static/js/2.cfd81cd2.chunk.js.map",
+    "index.html": "/react-three-fiber-test/index.html",
+    "precache-manifest.df10727f65d5ce78762af5083cc85557.js": "/react-three-fiber-test/precache-manifest.df10727f65d5ce78762af5083cc85557.js",
+    "service-worker.js": "/react-three-fiber-test/service-worker.js",
+    "static/css/main.d863a37d.chunk.css.map": "/react-three-fiber-test/static/css/main.d863a37d.chunk.css.map",
+    "static/js/2.cfd81cd2.chunk.js.LICENSE.txt": "/react-three-fiber-test/static/js/2.cfd81cd2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e24fdc75.js",
+    "static/js/2.cfd81cd2.chunk.js",
+    "static/css/main.d863a37d.chunk.css",
+    "static/js/main.ddcb9814.chunk.js"
+  ]
+}
